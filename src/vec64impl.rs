@@ -89,3 +89,5 @@ impl BitSet for Vec64Bitset{
 
 
 }
+
+// how does left << on a bitset work ? how to make it fast 
